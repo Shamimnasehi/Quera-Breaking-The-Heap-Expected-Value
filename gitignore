@@ -1,0 +1,9 @@
+# Compiled binaries
+Q3
+*.o
+*.out
+*.exe
+
+# Editor / OS files
+.vscode/
+.DS_Store
