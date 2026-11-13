@@ -122,4 +122,3 @@ g++ -std=c++17 -O2 Q3.cpp -o Q3
 
 > Note: `__int128` is a GCC/Clang extension (works with `g++` and `clang++`, not
 > with MSVC).
-
